@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HitungLuas</string>
+    <string name="lbPanjang">Panjang</string>
+    <string name="lbLebar">Lebar</string>
+    <string name="tvPanjang">Panjang</string>
+    <string name="tvLebar">Lebar</string>
+    <string name="bHitung">Hitung</string>
+    <string name="bHapus">Hapus</string>
+    <string name="tvLuas">Luas:</string>
+    <string name="errorNotif">Masukkan Panjang dan Lebar yang akan dihitung!</string>
+</resources>
